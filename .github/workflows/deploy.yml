@@ -13,7 +13,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: '10.x'
+          node-version: '12.x'
 
       - name: Cache dependencies
         uses: actions/cache@v1
@@ -35,5 +35,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: master
+          BRANCH: gh-pages
           FOLDER: dist
