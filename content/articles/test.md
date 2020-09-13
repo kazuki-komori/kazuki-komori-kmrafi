@@ -1,5 +1,6 @@
 ---
-title: 記事1
+title: 美味しいご飯を食べたい！
+description: hogehoge
 tags: [Nuxt.js JavaScript]
 ---
 

@@ -9,6 +9,7 @@
           Life
         </span>
       </section>
+      <!--
       <section class="d-flex align-items-center ml-5">
         <span class="p-header__icon material-icons d-block">
           phonelink
@@ -17,6 +18,7 @@
           Device
         </span>
       </section>
+      -->
     </div>
   </section>
 </template>

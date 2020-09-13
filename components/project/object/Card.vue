@@ -5,10 +5,9 @@
 </template>
 <style lang="scss" scoped>
 .p-card {
-  width: 80%;
-  height: 300px;
   margin: 0 auto;
-  padding: 30px 0;
-  border: orange solid 1px;
+  width: 90%;
+  padding: 30px;
+  border-bottom: orange solid 3px;
 }
 </style>

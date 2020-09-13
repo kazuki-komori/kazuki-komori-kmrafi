@@ -1,6 +1,5 @@
 <template>
-  <div class="container">
-
+  <div class="c-container p-article">
     <nuxt-content :document="article" />
   </div>
 </template>
@@ -17,3 +16,10 @@
     }
   };
 </script>
+<style lang="scss" scoped>
+@import "@/assets/scss/mixins.scss";
+.p-article {
+  background-color: white;
+  padding: 0 50px;
+}
+</style>
