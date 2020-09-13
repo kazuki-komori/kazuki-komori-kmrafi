@@ -15,6 +15,7 @@
         </Card>
       </router-link>
     </div>
+    <adsbygoogle adslot="8739404236567491"></adsbygoogle>
   </div>
 </template>
 
